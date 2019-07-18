@@ -1,6 +1,6 @@
 ---
 title: "7 choses apprises en formant à la data"
-subtitle: "et ce que j'en ai retiré dans ma pratique"
+subtitle: "et en quoi ça m'a servi"
 author: "Sylvain Lapoix, Datactivist // #DATAGUEULE"
 date: "Le Tank Media, 18/07/2019"
 output:
