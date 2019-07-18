@@ -1,6 +1,6 @@
 ---
 title: "7 choses apprises en formant à la data"
-subtitle: "(work in progress)"
+subtitle: "et ce qu'elles m'ont appris sur mon métier"
 author: "Sylvain Lapoix, Datactivist"
 date: "Le Tank Media, 18/07/2019"
 output:
@@ -40,6 +40,179 @@ Les productions de Datactivist sont librement réutilisables selon les termes de
 
 
 ---
+
+### Former au datajournalisme
+
+.pull-left[
+![](./img/ccijp_stats.png)
+Source : [CCIJP](http://www.ccijp.net/article-148-statistiques-ccijp.html).]
+
+.pull-right[
+En dehors de certaines rédactions, la formation au datajournalisme est la plupart du temps exogène et se heurte à .red[des cadres culturels forts] :
+* formation initiale ;
+* formation universitaire ;
+* formation journalistique ;
+* expérience journalistique ;
+* organisation de la rédaction ;
+* état du secteur.
+
+Mais pour expliciter cela, rien ne vaut une bonne anecdote de formation (authentique, bien entendu, sinon ça n'aurait aucun intérêt).
+]
+
+
+---
+
+### Novembre 2013, [Clermont-Ferrand](https://www.lesechos.fr/2013/11/centre-france-la-montagne-lance-un-plan-social-331033)
+
+![](./img/plansocial_lamontagne.png)
+
+---
+
+## Les choses que j'ai apprises
+
+Les principaux enseignements que j'ai tiré de ces six et quelques années de formation au datajournalisme portent sur une poignée de domaines :
+1. le rapport à la machine et aux outils ;
+2. le rapport à l'information (sources, formes et traitement) ;
+3. le rapport au métier de journaliste et à sa pratique.
+
+--
+
+J'exposerai ces sept constats sous trois angles :
+* **features** : comment cela se manifeste ?
+* **bugs** : les façons dont cela peut gêner la formation ou la pratique du datajournalisme ;
+* **fixes** : des propositions de solutions que j'ai testé.
+
+--
+
+Spoiler : je n'évoquerai pas ici la confusion (trop commune) entre datajournalisme et dataviz, mes confrères·soeurs l'ayant déjà largement explicité par avant.
+
+---
+
+.center[
+### 1. La machine, ultime frontière
+![](./img/rdv_terreinconnue.jpg)
+]
+
+**Feature** : les bénéficiaires ont un rapport "pousse bouton" à leur machine dont iels ne connaissent ni les fonctions, ni la structure.
+
+**Bugs** : *"Je ne sais pas où les fichiers sont téléchargés"*, *"Mais, tu avais installé Tabula hier, où l'as-tu mis ?"*, etc. Sans parler de la place sur le disque !
+
+**Fixes** : je consacre au moins une heure à la question de .red[l'organisation des fichiers], j'introduis à la notion de .red[framework]... et j'ai toujours des utilitaires de nettoyage sur une clef.
+
+---
+
+
+.center[
+### 2. Les dégâts du Bac ...
+![](https://media.giphy.com/media/wLMNAxuM4rbuE/giphy.gif)
+]
+
+**Feature** : les bénéficiaires se définissent comme "littéraires" et s'autodisqualifient pour toute pratique technique, mathématique ou scientifique.
+
+**Bugs** : *"Je peux pas, je suis littéraire"*, [le.a formateur·rice écrit une formule au tableau] *"HAAAAAAAAAAAAAAAAAAAA"*, etc.
+
+**Fixes** : initier les bénéficiaires à la *".red[lecture en français courant]"* des fonctions et du code (même si "les langages de programmation ne sont pas des langues", cf. [Alvaro Videla](https://medium.com/@old_sound/programming-languages-are-not-languages-c6f161a78c44))
+
+--
+
+Et réformer l'éducation nationale.
+
+---
+
+.center[
+### 3. L'ordi de Schrödinger
+![](https://media.giphy.com/media/cvOaZzK5USNoY/giphy.gif)
+]
+
+**Feature** : l'ordinateur est simultanément maître et esclave du / de la journaliste.
+
+**Bugs** : un·e bénéficiaire refuse d'installer un programme *"de peur d'abîmer sa machine"* / il ou elle *"accuse"* la machine de *"ne pas marcher"*.
+
+**Fixes** : .red[ramener la machine à son statut d'outil] en apprenant des trucs utiles au quotidien (recherche avancée, tri de fichier...). Voire installer Linux.
+
+
+
+---
+
+.center[
+### 4. Le datajournalisme, c'est de la trad
+![]()
+]
+
+traduire une problématique journalistique en problématique technique
+
+**Feature** : 
+
+**Bugs** : 
+
+**Fixes** : 
+
+---
+
+
+.center[
+### 5. La non proportionnalité cause / conséquence en informatique
+![](https://media.giphy.com/media/wUabg6WH4CNJC/giphy.gif)
+]
+
+**Feature** : 90% des erreurs bloquantes des bénéficiaires sont provoquées par une erreur / un oubli d'un signe ou deux, ce qui suffit à planter le script / la formule.
+
+**Bugs** : une *"petite typo de rien du tout"* bloque l'exercice, frustration, découragement, cri, démission, changement de parcours professionnel, déménagement, etc.
+
+**Fixes** : exposer clairement la structure des formules.
+
+--
+
+Et répéter, répéter, répéter encore ...
+
+---
+
+.center[
+### 6. La fragilité de l'acquis technique
+![](https://media1.tenor.com/images/aff5d4d55a4df6bc4cb6bfcf20c2c0fd/tenor.gif?itemid=8819556)
+]
+
+**Feature** : en dehors de formations particulières, les journalistes sont rarement invité·e·s ou encouragé·e·s à réutiliser régulièrement les compétences acquises.
+
+**Bugs** : vous donnez deux années de suite le même cours avec les mêmes outils et les mêmes exemples à la même classe de 30 étudiant·e·s ...
+
+--
+
+... et personne ne s'en rend compte.
+
+**Fixes** : demander aux bénéficiaires d'arriver avec un sujet **en cours** et de le creuser à chaque nouvel outil ou dédier une session à la préparation dudit sujet (on ne laisse pas pourir un sujet entamé).
+
+---
+.center[
+### 7. L'autoformation : compétence clef
+![]()
+]
+
+**Feature** : 
+
+**Bugs** : 
+
+**Fixes** : 
+
+
+---
+
+### Conclusion : la data est une culture
+
+Contre le solutionnisme
+Data literacy
+Former les personnes et pas les organisations.
+
+---
+
+class: inverse, center
+
+### ... et la culture, ça se partage
+
+![](./img/tweet_tobias.png)
+
+---
+
 class: inverse, center, middle
 
 # Merci !
